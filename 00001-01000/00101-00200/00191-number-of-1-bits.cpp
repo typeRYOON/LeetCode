@@ -1,4 +1,4 @@
-/* number-of-1-bits */
+/* easy :: bit-hacks */
 /*
     AND the first bit and SHIFT n right 1.
     - -
