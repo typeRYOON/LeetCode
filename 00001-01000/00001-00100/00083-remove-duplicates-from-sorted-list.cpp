@@ -2,8 +2,8 @@
 /*
     Check the cur->next->val and traverse
     until there is a different number, the
-    first node should now connect to this
-    new node.
+    original node should now connect to
+    this new node.
     - -       - -
     Time  :: O(n)
     Space :: O(1)
