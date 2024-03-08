@@ -1,6 +1,6 @@
 # LeetCode
 
-[My Progress](https://leetcode.com/typeRYOON/) in LeetCode.  
+[My Progress](https://leetcode.com/typeRYOON/) in [LeetCode](https://leetcode.com/problemset/).  
 I will be adding 5 solutions a day.
 
 Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
