@@ -10,10 +10,10 @@
     Space :: O(1)
 */
 class Solution {
-public
-    ListNode middleNode(ListNode fast)
+public:
+    ListNode* middleNode(ListNode* fast)
     {
-        ListNode slow = fast;
+        ListNode* slow = fast;
         while (fast && fast->next)
         {
             fast = fast->next->next;
