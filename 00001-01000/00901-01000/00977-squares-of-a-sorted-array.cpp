@@ -10,9 +10,9 @@ class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums)
     {
-        vector<int> ret(r + 1);
-        int l = 0, r = nums.size() - 1;
-        int i = r;
+        int i = (int)nums.size() - 1;
+        int l = 0, r = i;
+        vector<int> ret(i + 1);
 
         while (i >= 0)
         {
