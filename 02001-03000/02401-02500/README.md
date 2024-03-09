@@ -6,3 +6,4 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | # | Solution | Topic | Difficulty |
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
+| [02413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](02413-smallest-even-multiple.cpp) | `Number-Theory` | Easy |  
