@@ -1,4 +1,4 @@
-/* easy :: bit-hack */
+/* easy :: bit-hacks */
 /*
     If you XOR a number with some k number twice,
     you will get the original number back.
