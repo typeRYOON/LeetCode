@@ -1,7 +1,7 @@
 # LeetCode
 
 [My Progress](https://leetcode.com/typeRYOON/) in [LeetCode](https://leetcode.com/problemset/).  
-I will be adding 5 solutions a day.
+I will be adding 35 solutions every week on Sundays.
 
 Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 
