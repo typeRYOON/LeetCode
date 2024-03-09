@@ -10,6 +10,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00009](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](00001-00100/00009-palindrome-number.cpp) | `String` | Easy |  
 | [00011](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](00001-00100/00011-container-with-most-water.cpp) | `Two-Pointers` | Medium |  
 | [00020](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](00001-00100/00020-valid-parentheses.cpp) | `Stack` | Easy |  
+| [00028](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Find The Index Of The First Occurrence In A String](00001-00100/00028-find-the-index-of-the-first-occurrence-in-a-string.cpp) | `String` | Easy |  
 | [00083](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates From Sorted List](00001-00100/00083-remove-duplicates-from-sorted-list.cpp) | `Linked-List` | Easy |  
 | [00094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](00001-00100/00094-binary-tree-inorder-traversal.cpp) | `Tree` | Easy |  
 | [00100](https://leetcode.com/problems/same-tree/) | [Same Tree](00001-00100/00100-same-tree.cpp) | `Tree` | Easy |  
@@ -19,8 +20,10 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](00101-00200/00145-binary-tree-postorder-traversal.cpp) | `Tree` | Easy |  
 | [00148](https://leetcode.com/problems/sort-list/) | [Sort List](00101-00200/00148-sort-list.cpp) | `Linked-List` | Medium |  
 | [00191](https://leetcode.com/problems/number-of-1-bits/) | [Number Of 1 Bits](00101-00200/00191-number-of-1-bits.cpp) | `Bit-Hacks` | Easy |  
+| [00203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](00201-00300/00203-remove-linked-list-elements.cpp) | `Linked-List` | Easy |  
 | [00237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node In A Linked List](00201-00300/00237-delete-node-in-a-linked-list.cpp) | `Linked-List` | Medium |  
 | [00238](https://leetcode.com/problems/product-of-array-except-self/) | [Product Of Array Except Self](00201-00300/00238-product-of-array-except-self.cpp) | `Prefix-Sum` | Medium |  
 | [00242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](00201-00300/00242-valid-anagram.cpp) | `Hashmap` | Easy |  
+| [00412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](00401-00500/00412-fizz-buzz.cpp) | `Bit-Hacks` | Easy |  
 | [00876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle Of The Linked List](00801-00900/00876-middle-of-the-linked-list.cpp) | `Linked-List` | Easy |  
 | [00977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares Of A Sorted Array](00901-01000/00977-squares-of-a-sorted-array.cpp) | `Two-Pointers` | Easy |  
