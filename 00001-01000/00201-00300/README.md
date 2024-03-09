@@ -6,6 +6,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | # | Solution | Topic | Difficulty |
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
+| [00203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](00203-remove-linked-list-elements.cpp) | `Linked-List` | Easy |  
 | [00237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node In A Linked List](00237-delete-node-in-a-linked-list.cpp) | `Linked-List` | Medium |  
 | [00238](https://leetcode.com/problems/product-of-array-except-self/) | [Product Of Array Except Self](00238-product-of-array-except-self.cpp) | `Prefix-Sum` | Medium |  
 | [00242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](00242-valid-anagram.cpp) | `Hashmap` | Easy |  
