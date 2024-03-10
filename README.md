@@ -27,10 +27,20 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node In A Linked List](00001-01000/00201-00300/00237-delete-node-in-a-linked-list.cpp) | `Linked-List` | Medium |  
 | [00238](https://leetcode.com/problems/product-of-array-except-self/) | [Product Of Array Except Self](00001-01000/00201-00300/00238-product-of-array-except-self.cpp) | `Prefix-Sum` | Medium |  
 | [00242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](00001-01000/00201-00300/00242-valid-anagram.cpp) | `Hashmap` | Easy |  
+| [00349](https://leetcode.com/problems/intersection-of-two-arrays/) | [Intersection Of Two Arrays](00001-01000/00301-00400/00349-intersection-of-two-arrays.cpp) | `Hashmap` | Easy |  
 | [00412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](00001-01000/00401-00500/00412-fizz-buzz.cpp) | `Bit-Hacks` | Easy |  
 | [00876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle Of The Linked List](00001-01000/00801-00900/00876-middle-of-the-linked-list.cpp) | `Linked-List` | Easy |  
+| [00961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N Repeated Element In Size 2N Array](00001-01000/00901-01000/00961-n-repeated-element-in-size-2n-array.cpp) | `Hashmap` | Easy |  
 | [00977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares Of A Sorted Array](00001-01000/00901-01000/00977-squares-of-a-sorted-array.cpp) | `Two-Pointers` | Easy |  
+| [01108](https://leetcode.com/problems/defanging-an-ip-address/) | [Defanging An Ip Address](01001-02000/01101-01200/01108-defanging-an-ip-address.cpp) | `String` | Easy |  
+| [01672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](01001-02000/01601-01700/01672-richest-customer-wealth.cpp) | `Matrix` | Easy |  
+| [01929](https://leetcode.com/problems/concatenation-of-array/) | [Concatenation Of Array](01001-02000/01901-02000/01929-concatenation-of-array.cpp) | `Array` | Easy |  
+| [02011](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Final Value Of Variable After Performing Operations](02001-03000/02001-02100/02011-final-value-of-variable-after-performing-operations.cpp) | `String` | Easy |  
 | [02235](https://leetcode.com/problems/add-two-integers/) | [Add Two Integers](02001-03000/02201-02300/02235-add-two-integers.cpp) | `Math` | Easy |  
 | [02413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](02001-03000/02401-02500/02413-smallest-even-multiple.cpp) | `Number-Theory` | Easy |  
+| [02469](https://leetcode.com/problems/convert-the-temperature/) | [Convert The Temperature](02001-03000/02401-02500/02469-convert-the-temperature.cpp) | `Math` | Easy |  
 | [02540](https://leetcode.com/problems/minimum-common-value/) | [Minimum Common Value](02001-03000/02501-02600/02540-minimum-common-value.cpp) | `Two-Pointers` | Easy |  
+| [02769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find The Maximum Achievable Number](02001-03000/02701-02800/02769-find-the-maximum-achievable-number.cpp) | `Math` | Easy |  
+| [02798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number Of Employees Who Met The Target](02001-03000/02701-02800/02798-number-of-employees-who-met-the-target.cpp) | `Array` | Easy |  
+| [02942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](02001-03000/02901-03000/02942-find-words-containing-character.cpp) | `Array` | Easy |  
 | [03005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Count Elements With Maximum Frequency](03001-04000/03001-03100/03005-count-elements-with-maximum-frequency.cpp) | `Hashmap` | Easy |  
