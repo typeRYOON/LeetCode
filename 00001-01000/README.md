@@ -24,6 +24,8 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node In A Linked List](00201-00300/00237-delete-node-in-a-linked-list.cpp) | `Linked-List` | Medium |  
 | [00238](https://leetcode.com/problems/product-of-array-except-self/) | [Product Of Array Except Self](00201-00300/00238-product-of-array-except-self.cpp) | `Prefix-Sum` | Medium |  
 | [00242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](00201-00300/00242-valid-anagram.cpp) | `Hashmap` | Easy |  
+| [00349](https://leetcode.com/problems/intersection-of-two-arrays/) | [Intersection Of Two Arrays](00301-00400/00349-intersection-of-two-arrays.cpp) | `Hashmap` | Easy |  
 | [00412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](00401-00500/00412-fizz-buzz.cpp) | `Bit-Hacks` | Easy |  
 | [00876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle Of The Linked List](00801-00900/00876-middle-of-the-linked-list.cpp) | `Linked-List` | Easy |  
+| [00961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N Repeated Element In Size 2N Array](00901-01000/00961-n-repeated-element-in-size-2n-array.cpp) | `Hashmap` | Easy |  
 | [00977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares Of A Sorted Array](00901-01000/00977-squares-of-a-sorted-array.cpp) | `Two-Pointers` | Easy |  
