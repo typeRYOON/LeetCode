@@ -6,3 +6,4 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | # | Solution | Topic | Difficulty |
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
+| [01672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](01672-richest-customer-wealth.cpp) | `Matrix` | Easy |  
