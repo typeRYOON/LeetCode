@@ -6,4 +6,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | # | Solution | Topic | Difficulty |
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
+| [00404](https://leetcode.com/problems/sum-of-left-leaves/) | [Sum Of Left Leaves](00404-sum-of-left-leaves.cpp) | `Tree` | Easy |  
+| [00409](https://leetcode.com/problems/longest-palindrome/) | [Longest Palindrome](00409-longest-palindrome.cpp) | `Hashmap` | Easy |  
 | [00412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](00412-fizz-buzz.cpp) | `Bit-Hacks` | Easy |  
+| [00448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Find All Numbers Disappeared In An Array](00448-find-all-numbers-disappeared-in-an-array.cpp) | `Array` | Easy |  
