@@ -18,7 +18,17 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [02485](https://leetcode.com/problems/find-the-pivot-integer/) | [Find The Pivot Integer](02401-02500/02485-find-the-pivot-integer.cpp) | `Math` | Easy |  
 | [02487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Remove Nodes From Linked List](02401-02500/02487-remove-nodes-from-linked-list.cpp) | `Linked-List` | Medium |  
 | [02540](https://leetcode.com/problems/minimum-common-value/) | [Minimum Common Value](02501-02600/02540-minimum-common-value.cpp) | `Two-Pointers` | Easy |  
+| [02620](https://leetcode.com/problems/counter/) | [Counter](02601-02700/02620-counter.ts) | `Typescript` | Easy |  
+| [02626](https://leetcode.com/problems/array-reduce-transformation/) | [Array Reduce Transformation](02601-02700/02626-array-reduce-transformation.ts) | `Typescript` | Easy |  
+| [02629](https://leetcode.com/problems/function-composition/) | [Function Composition](02601-02700/02629-function-composition.ts) | `Typescript` | Easy |  
+| [02634](https://leetcode.com/problems/filter-elements-from-array/) | [Filter Elements From Array](02601-02700/02634-filter-elements-from-array.ts) | `Typescript` | Easy |  
+| [02635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Apply Transform Over Each Element In Array](02601-02700/02635-apply-transform-over-each-element-in-array.ts) | `Typescript` | Easy |  
+| [02665](https://leetcode.com/problems/counter-ii/) | [Counter Ii](02601-02700/02665-counter-ii.ts) | `Typescript` | Easy |  
+| [02667](https://leetcode.com/problems/create-hello-world-function/) | [Create Hello World Function](02601-02700/02667-create-hello-world-function.ts) | `Typescript` | Easy |  
+| [02704](https://leetcode.com/problems/to-be-or-not-to-be/) | [To Be Or Not To Be](02701-02800/02704-to-be-or-not-to-be.ts) | `Typescript` | Easy |  
 | [02769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find The Maximum Achievable Number](02701-02800/02769-find-the-maximum-achievable-number.cpp) | `Math` | Easy |  
 | [02798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number Of Employees Who Met The Target](02701-02800/02798-number-of-employees-who-met-the-target.cpp) | `Array` | Easy |  
+| [02810](https://leetcode.com/problems/faulty-keyboard/) | [Faulty Keyboard](02801-02900/02810-faulty-keyboard.cpp) | `String` | Easy |  
 | [02816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Double A Number Represented As A Linked List](02801-02900/02816-double-a-number-represented-as-a-linked-list.cpp) | `Linked-List` | Medium |  
+| [02894](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Divisible And Non Divisible Sums Difference](02801-02900/02894-divisible-and-non-divisible-sums-difference.cpp) | `Math` | Easy |  
 | [02942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](02901-03000/02942-find-words-containing-character.cpp) | `Array` | Easy |  
