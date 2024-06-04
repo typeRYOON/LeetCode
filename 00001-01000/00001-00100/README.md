@@ -7,6 +7,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
 | [00001](https://leetcode.com/problems/two-sum/) | [Two Sum](00001-two-sum.cpp) | `Hashmap` | Easy |  
+| [00002](https://leetcode.com/problems/add-two-numbers/) | [Add Two Numbers](00002-add-two-numbers.cpp) | `Linked-List` | Medium |  
 | [00007](https://leetcode.com/problems/reverse-integer/) | [Reverse Integer](00007-reverse-integer.cpp) | `Math` | Medium |  
 | [00009](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](00009-palindrome-number.cpp) | `String` | Easy |  
 | [00010](https://leetcode.com/problems/regular-expression-matching/) | [Regular Expression Matching](00010-regular-expression-matching.cpp) | `Dynamic-Programming` | Hard |  
