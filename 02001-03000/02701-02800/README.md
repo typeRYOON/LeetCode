@@ -6,5 +6,6 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | # | Solution | Topic | Difficulty |
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
+| [02704](https://leetcode.com/problems/to-be-or-not-to-be/) | [To Be Or Not To Be](02704-to-be-or-not-to-be.ts) | `Typescript` | Easy |  
 | [02769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find The Maximum Achievable Number](02769-find-the-maximum-achievable-number.cpp) | `Math` | Easy |  
 | [02798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number Of Employees Who Met The Target](02798-number-of-employees-who-met-the-target.cpp) | `Array` | Easy |  
