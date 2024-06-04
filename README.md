@@ -10,6 +10,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
 | [00001](https://leetcode.com/problems/two-sum/) | [Two Sum](00001-01000/00001-00100/00001-two-sum.cpp) | `Hashmap` | Easy |  
+| [00002](https://leetcode.com/problems/add-two-numbers/) | [Add Two Numbers](00001-01000/00001-00100/00002-add-two-numbers.cpp) | `Linked-List` | Medium |  
 | [00007](https://leetcode.com/problems/reverse-integer/) | [Reverse Integer](00001-01000/00001-00100/00007-reverse-integer.cpp) | `Math` | Medium |  
 | [00009](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](00001-01000/00001-00100/00009-palindrome-number.cpp) | `String` | Easy |  
 | [00010](https://leetcode.com/problems/regular-expression-matching/) | [Regular Expression Matching](00001-01000/00001-00100/00010-regular-expression-matching.cpp) | `Dynamic-Programming` | Hard |  
@@ -41,6 +42,9 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum Ii Input Array Is Sorted](00001-01000/00101-00200/00167-two-sum-ii-input-array-is-sorted.cpp) | `Two-Pointers` | Medium |  
 | [00190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](00001-01000/00101-00200/00190-reverse-bits.cpp) | `Bit-Hacks` | Easy |  
 | [00191](https://leetcode.com/problems/number-of-1-bits/) | [Number Of 1 Bits](00001-01000/00101-00200/00191-number-of-1-bits.cpp) | `Bit-Hacks` | Easy |  
+| [00193](https://leetcode.com/problems/valid-phone-numbers/) | [Valid Phone Numbers](00001-01000/00101-00200/00193-valid-phone-numbers.sh) | `Shell` |  Easy |  
+| [00194](https://leetcode.com/problems/transpose-file/) | [Transpose File](00001-01000/00101-00200/00194-transpose-file.sh) | `Shell` |  Easy |  
+| [00195](https://leetcode.com/problems/tenth-line/) | [Tenth Line](00001-01000/00101-00200/00195-tenth-line.sh) | `Shell` |  Easy |  
 | [00202](https://leetcode.com/problems/happy-number/) | [Happy Number](00001-01000/00201-00300/00202-happy-number.cpp) | `Hashmap` | Easy |  
 | [00203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](00001-01000/00201-00300/00203-remove-linked-list-elements.cpp) | `Linked-List` | Easy |  
 | [00206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](00001-01000/00201-00300/00206-reverse-linked-list.cpp) | `Linked-List` | Easy |  
@@ -88,6 +92,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [01325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Delete Leaves With A Given Value](01001-02000/01301-01400/01325-delete-leaves-with-a-given-value.cpp) | `Tree` | Medium |  
 | [01431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Kids With The Greatest Number Of Candies](01001-02000/01401-01500/01431-kids-with-the-greatest-number-of-candies.cpp) | `Array` | Easy |  
 | [01480](https://leetcode.com/problems/running-sum-of-1d-array/) | [Running Sum Of 1D Array](01001-02000/01401-01500/01480-running-sum-of-1d-array.cpp) | `Array` | Easy |  
+| [01486](https://leetcode.com/problems/xor-operation-in-an-array/) | [Xor Operation In An Array](01001-02000/01401-01500/01486-xor-operation-in-an-array.cpp) | `Bit-Hacks` | Easy |  
 | [01544](https://leetcode.com/problems/make-the-string-great/) | [Make The String Great](01001-02000/01501-01600/01544-make-the-string-great.cpp) | `Stack` | Easy |  
 | [01614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth Of The Parentheses](01001-02000/01601-01700/01614-maximum-nesting-depth-of-the-parentheses.cpp) | `String` | Easy |  
 | [01672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](01001-02000/01601-01700/01672-richest-customer-wealth.cpp) | `Matrix` | Easy |  
@@ -106,9 +111,20 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [02485](https://leetcode.com/problems/find-the-pivot-integer/) | [Find The Pivot Integer](02001-03000/02401-02500/02485-find-the-pivot-integer.cpp) | `Math` | Easy |  
 | [02487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Remove Nodes From Linked List](02001-03000/02401-02500/02487-remove-nodes-from-linked-list.cpp) | `Linked-List` | Medium |  
 | [02540](https://leetcode.com/problems/minimum-common-value/) | [Minimum Common Value](02001-03000/02501-02600/02540-minimum-common-value.cpp) | `Two-Pointers` | Easy |  
+| [02620](https://leetcode.com/problems/counter/) | [Counter](02001-03000/02601-02700/02620-counter.ts) | `Typescript` | Easy |  
+| [02626](https://leetcode.com/problems/array-reduce-transformation/) | [Array Reduce Transformation](02001-03000/02601-02700/02626-array-reduce-transformation.ts) | `Typescript` | Easy |  
+| [02629](https://leetcode.com/problems/function-composition/) | [Function Composition](02001-03000/02601-02700/02629-function-composition.ts) | `Typescript` | Easy |  
+| [02634](https://leetcode.com/problems/filter-elements-from-array/) | [Filter Elements From Array](02001-03000/02601-02700/02634-filter-elements-from-array.ts) | `Typescript` | Easy |  
+| [02635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Apply Transform Over Each Element In Array](02001-03000/02601-02700/02635-apply-transform-over-each-element-in-array.ts) | `Typescript` | Easy |  
+| [02665](https://leetcode.com/problems/counter-ii/) | [Counter Ii](02001-03000/02601-02700/02665-counter-ii.ts) | `Typescript` | Easy |  
+| [02667](https://leetcode.com/problems/create-hello-world-function/) | [Create Hello World Function](02001-03000/02601-02700/02667-create-hello-world-function.ts) | `Typescript` | Easy |  
+| [02704](https://leetcode.com/problems/to-be-or-not-to-be/) | [To Be Or Not To Be](02001-03000/02701-02800/02704-to-be-or-not-to-be.ts) | `Typescript` | Easy |  
 | [02769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find The Maximum Achievable Number](02001-03000/02701-02800/02769-find-the-maximum-achievable-number.cpp) | `Math` | Easy |  
 | [02798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number Of Employees Who Met The Target](02001-03000/02701-02800/02798-number-of-employees-who-met-the-target.cpp) | `Array` | Easy |  
+| [02810](https://leetcode.com/problems/faulty-keyboard/) | [Faulty Keyboard](02001-03000/02801-02900/02810-faulty-keyboard.cpp) | `String` | Easy |  
 | [02816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Double A Number Represented As A Linked List](02001-03000/02801-02900/02816-double-a-number-represented-as-a-linked-list.cpp) | `Linked-List` | Medium |  
+| [02894](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Divisible And Non Divisible Sums Difference](02001-03000/02801-02900/02894-divisible-and-non-divisible-sums-difference.cpp) | `Math` | Easy |  
 | [02942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](02001-03000/02901-03000/02942-find-words-containing-character.cpp) | `Array` | Easy |  
 | [03005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Count Elements With Maximum Frequency](03001-04000/03001-03100/03005-count-elements-with-maximum-frequency.cpp) | `Hashmap` | Easy |  
 | [03099](https://leetcode.com/problems/harshad-number/) | [Harshad Number](03001-04000/03001-03100/03099-harshad-number.cpp) | `Math` | Easy |  
+| [03110](https://leetcode.com/problems/score-of-a-string/) | [Score Of A String](03001-04000/03101-03200/03110-score-of-a-string.cpp) | `Array` | Easy |  
