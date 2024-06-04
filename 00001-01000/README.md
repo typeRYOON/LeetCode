@@ -7,6 +7,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | --- | --- | --- | --- |
 | | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | |  
 | [00001](https://leetcode.com/problems/two-sum/) | [Two Sum](00001-00100/00001-two-sum.cpp) | `Hashmap` | Easy |  
+| [00002](https://leetcode.com/problems/add-two-numbers/) | [Add Two Numbers](00001-00100/00002-add-two-numbers.cpp) | `Linked-List` | Medium |  
 | [00007](https://leetcode.com/problems/reverse-integer/) | [Reverse Integer](00001-00100/00007-reverse-integer.cpp) | `Math` | Medium |  
 | [00009](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](00001-00100/00009-palindrome-number.cpp) | `String` | Easy |  
 | [00010](https://leetcode.com/problems/regular-expression-matching/) | [Regular Expression Matching](00001-00100/00010-regular-expression-matching.cpp) | `Dynamic-Programming` | Hard |  
@@ -38,6 +39,9 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum Ii Input Array Is Sorted](00101-00200/00167-two-sum-ii-input-array-is-sorted.cpp) | `Two-Pointers` | Medium |  
 | [00190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](00101-00200/00190-reverse-bits.cpp) | `Bit-Hacks` | Easy |  
 | [00191](https://leetcode.com/problems/number-of-1-bits/) | [Number Of 1 Bits](00101-00200/00191-number-of-1-bits.cpp) | `Bit-Hacks` | Easy |  
+| [00193](https://leetcode.com/problems/valid-phone-numbers/) | [Valid Phone Numbers](00101-00200/00193-valid-phone-numbers.sh) | `Shell` |  Easy |  
+| [00194](https://leetcode.com/problems/transpose-file/) | [Transpose File](00101-00200/00194-transpose-file.sh) | `Shell` |  Easy |  
+| [00195](https://leetcode.com/problems/tenth-line/) | [Tenth Line](00101-00200/00195-tenth-line.sh) | `Shell` |  Easy |  
 | [00202](https://leetcode.com/problems/happy-number/) | [Happy Number](00201-00300/00202-happy-number.cpp) | `Hashmap` | Easy |  
 | [00203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](00201-00300/00203-remove-linked-list-elements.cpp) | `Linked-List` | Easy |  
 | [00206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](00201-00300/00206-reverse-linked-list.cpp) | `Linked-List` | Easy |  
