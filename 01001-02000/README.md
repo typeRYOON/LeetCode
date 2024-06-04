@@ -14,6 +14,7 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [01325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Delete Leaves With A Given Value](01301-01400/01325-delete-leaves-with-a-given-value.cpp) | `Tree` | Medium |  
 | [01431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Kids With The Greatest Number Of Candies](01401-01500/01431-kids-with-the-greatest-number-of-candies.cpp) | `Array` | Easy |  
 | [01480](https://leetcode.com/problems/running-sum-of-1d-array/) | [Running Sum Of 1D Array](01401-01500/01480-running-sum-of-1d-array.cpp) | `Array` | Easy |  
+| [01486](https://leetcode.com/problems/xor-operation-in-an-array/) | [Xor Operation In An Array](01401-01500/01486-xor-operation-in-an-array.cpp) | `Bit-Hacks` | Easy |  
 | [01544](https://leetcode.com/problems/make-the-string-great/) | [Make The String Great](01501-01600/01544-make-the-string-great.cpp) | `Stack` | Easy |  
 | [01614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth Of The Parentheses](01601-01700/01614-maximum-nesting-depth-of-the-parentheses.cpp) | `String` | Easy |  
 | [01672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](01601-01700/01672-richest-customer-wealth.cpp) | `Matrix` | Easy |  
