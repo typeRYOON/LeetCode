@@ -16,3 +16,6 @@ Press <kbd>Control</kbd> + <kbd>F</kbd> to search for anything you want.
 | [00167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum Ii Input Array Is Sorted](00167-two-sum-ii-input-array-is-sorted.cpp) | `Two-Pointers` | Medium |  
 | [00190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](00190-reverse-bits.cpp) | `Bit-Hacks` | Easy |  
 | [00191](https://leetcode.com/problems/number-of-1-bits/) | [Number Of 1 Bits](00191-number-of-1-bits.cpp) | `Bit-Hacks` | Easy |  
+| [00193](https://leetcode.com/problems/valid-phone-numbers/) | [Valid Phone Numbers](00193-valid-phone-numbers.sh) | `Shell` |  Easy |  
+| [00194](https://leetcode.com/problems/transpose-file/) | [Transpose File](00194-transpose-file.sh) | `Shell` |  Easy |  
+| [00195](https://leetcode.com/problems/tenth-line/) | [Tenth Line](00195-tenth-line.sh) | `Shell` |  Easy |  
